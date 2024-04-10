@@ -1,0 +1,4 @@
+/data/chenminghui/ELIC/experiments/sunrgbd_rgb_ckbd_5/codestream/601-padding-replicate0 All Cameras, mIoU: 43.10
+/data/chenminghui/ELIC/experiments/sunrgbd_rgb_ckbd_4/codestream/601-padding-replicate0 All Cameras, mIoU: 41.51
+/data/chenminghui/ELIC/experiments/sunrgbd_rgb_ckbd_2/codestream/601-padding-replicate0 All Cameras, mIoU: 36.89
+/data/chenminghui/ELIC/experiments/sunrgbd_rgb_ckbd_3/codestream/601-padding-replicate0 All Cameras, mIoU: 38.63

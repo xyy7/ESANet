@@ -1,0 +1,4 @@
+/home/xyy/ELIC/experiments/nyuv2_depth_ELIC_master_1/codestream/387-padding-replicate0 All Cameras, mIoU: 42.11
+/home/xyy/ELIC/experiments/nyuv2_depth_ELIC_master_2/codestream/396-padding-replicate0 All Cameras, mIoU: 43.59
+/home/xyy/ELIC/experiments/nyuv2_depth_ELIC_master_3/codestream/393-padding-replicate0 All Cameras, mIoU: 43.07
+/home/xyy/ELIC/experiments/nyuv2_depth_ELIC_master_4/codestream/401-padding-replicate0 All Cameras, mIoU: 44.42

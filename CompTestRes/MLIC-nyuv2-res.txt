@@ -1,0 +1,5 @@
+
+/data/chenminghui/nyud/nyu5k/nyuv2/test/MLIC/nyuv2_rgb_MLIC_2/codestream/401-padding-replicate0 All Cameras, mIoU: 37.14
+/data/chenminghui/nyud/nyu5k/nyuv2/test/MLIC/nyuv2_rgb_MLIC_3/codestream/401-padding-replicate0 All Cameras, mIoU: 40.01
+/data/chenminghui/nyud/nyu5k/nyuv2/test/MLIC/nyuv2_rgb_MLIC_4/codestream/399-padding-replicate0 All Cameras, mIoU: 41.14
+/data/chenminghui/nyud/nyu5k/nyuv2/test/MLIC/nyuv2_rgb_MLIC_5/codestream/385-padding-replicate0 All Cameras, mIoU: 42.68

@@ -1,0 +1,11 @@
+/home/xyy/ELIC/experiments/nyuv2_ELIC_united_Mse_4_3/codestream/401-padding-replicate0 All Cameras, mIoU: 43.80
+/home/xyy/ELIC/experiments/nyuv2_ELIC_united_Mse_5_4/codestream/401-padding-replicate0 All Cameras, mIoU: 44.38
+/home/xyy/ELIC/experiments/nyuv2_ELIC_united_Mse_3_2/codestream/401-padding-replicate0 All Cameras, mIoU: 42.94
+/home/xyy/ELIC/experiments/nyuv2_ELIC_united_Mse_2_1/codestream/401-padding-replicate0 All Cameras, mIoU: 42.70
+
+
+best
+/home/xyy/ELIC/experiments/nyuv2_ELIC_united_mse_5_4/codestream/399-padding-replicate0 All Cameras, mIoU: 44.39
+/home/xyy/ELIC/experiments/nyuv2_ELIC_united_mse_2_1/codestream/400-padding-replicate0 All Cameras, mIoU: 42.60
+/home/xyy/ELIC/experiments/nyuv2_ELIC_united_mse_3_2/codestream/393-padding-replicate0 All Cameras, mIoU: 42.92
+/home/xyy/ELIC/experiments/nyuv2_ELIC_united_mse_4_3/codestream/400-padding-replicate0 All Cameras, mIoU: 43.68

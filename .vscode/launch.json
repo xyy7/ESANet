@@ -1,0 +1,80 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: nyuv2",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "7",
+            },
+        },
+        {
+            "name": "Python: nyuv2-draw",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "7",
+            },
+            "args": [
+                "--draw",
+                "--rec_data_dir",
+                "/data/chenminghui/ELIC/experiments/nyuv2_ELIC_united4_SE_res_5_5/codestream/399-padding-replicate0"
+            ]
+        },
+        {
+            "name": "Python: sunrgbd",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "--dataset",
+                "sunrgbd",
+                "--dataset_dir",
+                "/data/chenminghui/sunrgbd/",
+                "--ckpt_path",
+                "/data/chenminghui/ESA_backup_0720/ESANet-main/trained_models/sunrgbd/r34_NBt1D.pth",
+                // "--height",
+                // "531",
+                // "--width",
+                // "681", //默认还是480x640的
+            ],
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "3",
+            },
+        },
+        {
+            "name": "Python: sunrgbd-5",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "--dataset",
+                "sunrgbd",
+                "--dataset_dir",
+                "/data/chenminghui/sunrgbd/",
+                "--ckpt_path",
+                "/data/chenminghui/ESA_backup_0720/ESANet-main/trained_models/sunrgbd/r34_NBt1D.pth",
+                "--rec_data_dir",
+                "/data/chenminghui/ELIC/experiments/sunrgbd_ELIC_united_lh_5_5/codestream/598-padding-replicate0"
+                //如果有设置rec_data_dir,那么可以直接读取rec文件夹，如果没有设置，那么需要提供test_rgb.txt之类的文本文件
+                // "--height",
+                // "531",
+                // "--width",
+                // "681", //默认还是480x640的
+            ],
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "5",
+            },
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+/data/chenminghui/nyud/nyu5k/nyuv2/test/vtm_31 All Cameras, mIoU: 43.63
+/data/chenminghui/nyud/nyu5k/nyuv2/test/vtm_32 All Cameras, mIoU: 42.97
+/data/chenminghui/nyud/nyu5k/nyuv2/test/vtm_34 All Cameras, mIoU: 40.94
+/data/chenminghui/nyud/nyu5k/nyuv2/test/vtm_36 All Cameras, mIoU: 37.36
+/data/chenminghui/nyud/nyu5k/nyuv2/test/vtm_38 All Cameras, mIoU: 35.03

@@ -1,0 +1,4 @@
+/data/chenminghui/sunrgbd/test/MLIC/sunrgbd_rgb_MLIC_5/codestream/601-padding-replicate0 All Cameras, mIoU: 44.21
+/data/chenminghui/sunrgbd/test/MLIC/sunrgbd_rgb_MLIC_4/codestream/601-padding-replicate0 All Cameras, mIoU: 42.90
+/data/chenminghui/sunrgbd/test/MLIC/sunrgbd_rgb_MLIC_3/codestream/601-padding-replicate0 All Cameras, mIoU: 40.98
+/data/chenminghui/sunrgbd/test/MLIC/sunrgbd_rgb_MLIC_2/codestream/601-padding-replicate0 All Cameras, mIoU: 38.61

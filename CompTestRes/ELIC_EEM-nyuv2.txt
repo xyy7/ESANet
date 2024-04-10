@@ -1,0 +1,4 @@
+/data/chenminghui/ELIC/experiments/nyuv2_ELIC_EEM_SE_res_2_2.25/codestream/392-padding-replicate0 All Cameras, mIoU: 39.56
+/data/chenminghui/ELIC/experiments/nyuv2_ELIC_EEM_SE_res_3_3/codestream/395-padding-replicate0 All Cameras, mIoU: 40.71
+/data/chenminghui/ELIC/experiments/nyuv2_ELIC_EEM_SE_res_4_4/codestream/399-padding-replicate0 All Cameras, mIoU: 41.59
+/data/chenminghui/ELIC/experiments/nyuv2_ELIC_EEM_SE_res_5_5/codestream/400-padding-replicate0 All Cameras, mIoU: 43.25

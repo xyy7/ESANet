@@ -1,0 +1,4 @@
+/home/xyy/ELIC/experiments/sunrgbd_ELIC_united_mse_3_3/codestream/601-padding-replicate0 All Cameras, mIoU: 43.94
+/home/xyy/ELIC/experiments/sunrgbd_ELIC_united_mse_2_2/codestream/596-padding-replicate0 All Cameras, mIoU: 43.05
+/home/xyy/ELIC/experiments/sunrgbd_ELIC_united_mse_5_5/codestream/601-padding-replicate0 All Cameras, mIoU: 45.79
+/home/xyy/ELIC/experiments/sunrgbd_ELIC_united_mse_4_4/codestream/601-padding-replicate0 All Cameras, mIoU: 45.11
